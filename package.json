@@ -1,6 +1,6 @@
 {
   "name": "prettierx",
-  "version": "0.19.1-isvy-1",
+  "version": "0.19.1-isvy-2",
   "prettier-version": "2.4.0",
   "description": "prettierX - a less opinionated fork of the Prettier code formatter",
   "bin": "./bin/prettierx.js",
@@ -82,7 +82,7 @@
     "minimist": "1.2.5",
     "n-readlines": "1.0.1",
     "outdent": "0.8.0",
-    "parse-srcset": "ikatyang/parse-srcset#54eb9c1cb21db5c62b4d0e275d7249516df6f0ee",
+    "parse-srcset": "ikatyang/parse-srcset#master",
     "please-upgrade-node": "3.2.0",
     "postcss": "8.3.5",
     "postcss-less": "4.0.1",
