@@ -29,7 +29,13 @@ srcset="
   alt=""
 />
 
-<img src="a" srcset="should-not-format" alt="" />
+<img
+  src="a"
+  srcset="
+ should-not-format ,, should-not-format 0q,,,
+"
+  alt=""
+/>
 
 ================================================================================
 `;
